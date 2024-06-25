@@ -103,7 +103,6 @@ func conversao() {
 	numero4 = int(numero3)
 	fmt.Println(numero3)
 	fmt.Println(numero4)
-
 	fmt.Println("### ----------- ###\n")
 
 	// pacote strconv -> para converter variáveis
