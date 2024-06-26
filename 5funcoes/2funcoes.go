@@ -13,7 +13,7 @@ func soma(numero1 int, numero2 int) int {
 
 func main() {
 
-	resultado := soma(1, 2)
+	resultado := soma(10, 20)
 	fmt.Println(resultado)
 
 }

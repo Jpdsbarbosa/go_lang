@@ -18,7 +18,7 @@ func operacao(numero1 int, numero2 int) (int, int, int, int) {
 
 func main() {
 
-	soma, sub, div, mult := operacao(1, 2)
+	soma, sub, div, mult := operacao(30, 20)
 	fmt.Println(soma, sub, div, mult)
 
 }
