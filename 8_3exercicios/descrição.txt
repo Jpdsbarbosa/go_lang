@@ -1,0 +1,1 @@
+- Dado o exercício anterior, criar uma função no pacote "Model" que inicializa a struct e retorna como ponteiro
